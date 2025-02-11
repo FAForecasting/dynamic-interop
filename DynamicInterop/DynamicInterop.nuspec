@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>DynamicInterop</id>
-    <version>0.8.1</version>
+    <id>DynamicInterop2</id>
+    <version>0.8.2</version>
     <title>Dynamic Interop</title>
     <authors>Jean-Michel Perraud</authors>
     <owners>Jean-Michel Perraud</owners>
